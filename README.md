@@ -1,7 +1,6 @@
 # VCU CS 23-314 Data Science Based Courses for Digital Forensics
 
-![First image]https://github.com/vcu-swim-lab/digital-forensics-data-science-tutorials/blob/main/Artwork/cspic1.jpg
-
+![cspic2resized](https://user-images.githubusercontent.com/55904015/220277076-64ce0f77-f6d7-459f-b3f1-b7c5cb123419.jpg)
 
 ## A functional project consisting of multiple google collab notebooks intended to help guide future digital forensic investigators.
 This project is meant to showcase three modules/notebooks (__Chat logs__, __Emails__, __Images__) that will help simulate an investigation utilizing real life case studies in the process, as well as learning new data science techniques to  speed up time consuming tasks that come alongside within a digital forensic case. These modules will be beginner friendly, the modules themselves will have supplemented sample code alongside some background information detailing the inner workings of an algorithm or story to enchance the user's learning. However, there are some thing's for the user that has to do in order to get the full advantage of the respective collab books: 
@@ -10,11 +9,6 @@ This project is meant to showcase three modules/notebooks (__Chat logs__, __Emai
 * How to get a collab notebook running and opened.
 * Pointers on how to edit and handle each respective collab notebook
 * Notebooks are ready to use which one would you need and utilize 
-
-## Getting started on google collab intended video for users with no background of google collab at all
-
-[![Intro to collab](http://imgur.com/a/1D27mdL)](https://www.youtube.com/watch?v=RLYoEyIHL6A&t=1s "Collab Introduction")
-
 
 
 
@@ -27,9 +21,14 @@ Here is the short version in how you can jump straight away into the project!
 3. Learn and have fun!
 
 
+![cspic1resized](https://user-images.githubusercontent.com/55904015/220275982-14e52c8a-4bfd-449c-87c5-9a773a4a7096.jpg)
+
 ## Want to tweak this open source project
 
 Make sure you clone the project and rename the project to your liking. If you try to push on to our github or merge provide a detailed comment explaining the change.
+
+
+
 
 
 
@@ -40,8 +39,6 @@ If you found an issue or would like to submit an improvement to this project, pl
 ## Known Issues(Work in Progress)
 
 This project is still ongoing and is not widely released to the public yet once we start finalizing the project and have the repo open to users we would love your feedback and any troubles you run into for all of the notebooks.
-
-
 
 
 
