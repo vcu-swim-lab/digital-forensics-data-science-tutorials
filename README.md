@@ -5,6 +5,15 @@
 ## A functional project consisting of multiple google collab notebooks intended to help guide future digital forensic investigators.
 This project is meant to showcase three modules/notebooks (__Chat logs__, __Emails__, __Images__) that will help simulate an investigation utilizing real life case studies in the process, as well as learning new data science techniques to  speed up time consuming tasks that come alongside within a digital forensic case. These modules will be beginner friendly, the modules themselves will have supplemented sample code alongside some background information detailing the inner workings of an algorithm or story to enchance the user's learning. However, there are some thing's for the user that has to do in order to get the full advantage of the respective collab books: 
 
+
+Open Here!
+
+[![Images Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fH5sxqxaHFFcUKgVpU6lGmdqvDEN2G4N?authuser=1#scrollTo=HSpk_sSnR_9S)]
+
+
+
+
+
 * Be able to import the respective datasets easily by having ease of access in their respective github folders or can even open on the readme.
 * How to get a collab notebook running and opened.
 * Pointers on how to edit and handle each respective collab notebook
