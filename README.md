@@ -11,11 +11,10 @@ __Images Notebook__:
 
 
 __Chat Logs Notebook__:
+[![Chat Logs Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pI_FhRjkvEyl6ENrK6WiJ5GKs4fE6cbG?usp=sharing)
 
-[![Chat Logs Notebook](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
-__Emails Notebook__:
 
 
 
