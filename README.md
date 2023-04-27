@@ -7,10 +7,18 @@ This project is meant to showcase three modules/notebooks (__Chat logs__, __Emai
 
 
 __Images Notebook__:
-![Images Notebook][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fH5sxqxaHFFcUKgVpU6lGmdqvDEN2G4N?authuser=1#scrollTo=HSpk_sSnR_9S)
+[![Images Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fH5sxqxaHFFcUKgVpU6lGmdqvDEN2G4N?authuser=1#scrollTo=HSpk_sSnR_9S)
 
 
 __Chat Logs Notebook__:
+
+[![Chat Logs Notebook](https://colab.research.google.com/assets/colab-badge.svg)]()
+
+
+__Emails Notebook__:
+
+
+
 
 
 
